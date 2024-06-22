@@ -1,0 +1,1 @@
+NewEncounter([global.enemies.skeleton, global.enemies.skeleton], spr_BgField);

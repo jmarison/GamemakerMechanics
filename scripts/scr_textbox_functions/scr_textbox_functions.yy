@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_textbox_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_textbox_functions",
+  "parent":{
+    "name":"Dialogue_System",
+    "path":"folders/Dialogue_System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
